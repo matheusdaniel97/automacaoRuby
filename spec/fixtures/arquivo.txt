@@ -1,0 +1,7 @@
+Este é um projeto de automação de estudo feito por Matheus Ganzenmuller Daniel!
+A automação foi realizada utilizando Cucumber, Capybara e Selenium na linguagem Ruby.
+São no total 41 testes automatizados, comentados e gerando prints.
+Para entrar em contato: 
+Telegram / Whats / Celular: (15)99699-5309
+Email: ganzenmuller1997@gmail.com
+Linkedin: www.linkedin.com/in/matheusganzenmuller/
